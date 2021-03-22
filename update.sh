@@ -36,4 +36,4 @@ echo -e "\e[92mMega File Stealer updated to Version 2.9\e[0m"
 elif [ "$zCh" == "Version 3.0" ]; then
 update
 echo -e "\e[92mMega File Stealer updated to Version 3.0\e[0m"
-fi
+
