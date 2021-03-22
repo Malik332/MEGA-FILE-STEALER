@@ -27,7 +27,7 @@ Get mega files 🥰🥰🥰
 > bash update.sh
 
 ## To Run:
-> python mega-file-stealer.py
+> python MEGA-FILE-STEALER.py
 
 ## How To Use:
 1. Create an account in Mega.nz
