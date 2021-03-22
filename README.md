@@ -1,6 +1,6 @@
 # MEGA-FILE-STEALER
 Get mega files 🥰🥰🥰
-[![Author](https://img.shields.io/badge/Author-Zech%20Bron-red?style=for-the-badge&logo=github)](https://github.com/ZechBron)
+[![Author][![MALIK ATIQUZ ZAMAN]
 
 ## Features
 - Steal Files
