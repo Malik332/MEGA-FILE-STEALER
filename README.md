@@ -1,6 +1,6 @@
 # MEGA-FILE-STEALER
 Get mega files 🥰🥰🥰
-[![Author][![MALIK ATIQUZ ZAMAN]
+###Author:MALIK ATIQUZ ZAMAN
 
 ## Features
 - Steal Files
